@@ -1,0 +1,2 @@
+# dashboards
+adminlte-dashboard
